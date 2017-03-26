@@ -1,6 +1,8 @@
 svg {
     width: 300px; 
     height: 260px;
-    fill: #a3f512 !important;
 }
 
+svg path {
+    fill: #a3f512 !important;
+}
